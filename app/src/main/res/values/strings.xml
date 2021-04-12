@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Officers Smart NoteCase</string>
+    <string name="notification_channel_name">Officers Smart NoteCase Notification</string>
+    <string name="notification_channel_description">Notification from Officers Smart NoteCase</string>
+</resources>

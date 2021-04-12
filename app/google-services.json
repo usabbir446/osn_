@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178170677500",
+    "project_id": "officers-smart-notecase",
+    "storage_bucket": "officers-smart-notecase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178170677500:android:2998a3947276772168ef79",
+        "android_client_info": {
+          "package_name": "com.defense.notecase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178170677500-njab1ebquv42u18ukighhnvcq3sm6i0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdOPamoFFiOuvBA5zFSnLdycpAgabu51U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178170677500-njab1ebquv42u18ukighhnvcq3sm6i0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
